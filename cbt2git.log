@@ -1,0 +1,10 @@
+2023-04-03 00:10:54.860050 - Initialized conversion of CBT421
+2023-04-03 00:10:54.928286 - Received CBT.V504.FILE421.PDS from FILE421.XMI 
+2023-04-03 00:10:54.931187 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE421.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:10:54.932272 - Found $CHANGES.txt (text/plain) in CBT.V504.FILE421.PDS, moved to PDS/$CHANGES
+2023-04-03 00:10:54.933246 - Found @FILE421.txt (text/plain) in CBT.V504.FILE421.PDS, moved to PDS/@FILE421
+2023-04-03 00:10:54.934228 - Found CBTJCL.jcl (text/plain) in CBT.V504.FILE421.PDS, moved to PDS/CBTJCL
+2023-04-03 00:10:54.934240 - Found UGUPCASE.bin containing application/octet-stream, moved to PDS/UGUPCASE
+2023-04-03 00:10:54.935232 - Found USERGUID.bin containing application/octet-stream, moved to PDS/USERGUID
+2023-04-03 00:10:54.936580 - Found XACORZAP.bin containing application/octet-stream, moved to PDS/XACORZAP
+2023-04-03 00:10:54.938530 - Found XAZAPSRC.txt (text/plain) in CBT.V504.FILE421.PDS, moved to PDS/XAZAPSRC
